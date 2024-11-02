@@ -32,23 +32,43 @@ Confusion matrix and Comparison between models
 # Dataset
 
 battery_power: Batarya kapasitesi (mAh)
+
 blue: Bluetooth var ya da yok
+
 clock_speed: İşlemci hızı
+
 dual_sim: Çift sim kart var ya da yok
+
 fc: Ön kamera (mega pixels)
+
 four_g: 4G var ya da yok
+
 int_memory: Depolama alanı (Gb)
+
 m_dep: Telefon derinliği (cm)
+
 mobile_wt: Telefon ağırlığı
+
 n_cores: İşlemci çekirdeği
+
 pc: Arka kamera (mega pixels)
+
 px_height: Ekran çözünürlüğü yükseklik
+
 px_width: Ekran çözünürlüğü genişlik
+
 ram: Telefon RAM i (Mb)
+
 sc_h: Ekran yüksekliği (cm)
+
 sc_w: Ekran genişliği (cm)
+
 talk_time: Tek şarjda konuşma süresi
+
 three_g: 3G var ya da yok
+
 touch-screen: Dokunmatik ekran var ya da yok
+
 wifi: WiFi var ya da yok
+
 price_range: Fiyat aralığı (0-1-2-3)
