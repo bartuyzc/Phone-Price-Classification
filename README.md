@@ -1,8 +1,10 @@
 # Classification of Mobile Phone Price Using Machine Learning Algorithms
 
-In this project, only machine learning techniques were used, utilizing data obtained both from Kaggle and independently from the internet using Python. 
+In this project, only machine learning techniques were used, utilizing data collected both from Kaggle and independently from the internet using Python. 
 
 The project consists of two parts, where we compare whether we need all the features for classification or if selecting specific features would also be effective.
+
+In the first part, a dataset obtained from Kaggle was used, and in the second part, a dataset that I collected myself was used.
 
 During the processes, the GridSearch function is used to input various parameters, allowing us to find the best ones.
 
