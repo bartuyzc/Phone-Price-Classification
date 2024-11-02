@@ -31,44 +31,44 @@ Confusion matrix and Comparison between models
 
 # Dataset
 
-battery_power: Batarya kapasitesi (mAh)
+pc - Primary Camera mega pixels
 
-blue: Bluetooth var ya da yok
+fc - Front Camera mega pixels
 
-clock_speed: İşlemci hızı
+sc_h - Screen Height of mobile in cm
 
-dual_sim: Çift sim kart var ya da yok
+sc_w - Screen Width of mobile in cm
 
-fc: Ön kamera (mega pixels)
+m_dep - Mobile Depth in cm
 
-four_g: 4G var ya da yok
+px_width - Pixel Resolution Width
 
-int_memory: Depolama alanı (Gb)
+px_height - Pixel Resolution Height
 
-m_dep: Telefon derinliği (cm)
+ram - Random Access Memory in Mega Bytes
 
-mobile_wt: Telefon ağırlığı
+int_memory - Internal Memory in Giga Bytes
 
-n_cores: İşlemci çekirdeği
+four_g - Has 4G or not
 
-pc: Arka kamera (mega pixels)
+three_g - Has 3G or not
 
-px_height: Ekran çözünürlüğü yükseklik
+dual_sim - Has dual sim support or not
 
-px_width: Ekran çözünürlüğü genişlik
+battery_power - Total energy a battery can store in one time measured in mAh
 
-ram: Telefon RAM i (Mb)
+touch_screen - Has touch screen or not
 
-sc_h: Ekran yüksekliği (cm)
+clock_speed - speed at which microprocessor executes instructions
 
-sc_w: Ekran genişliği (cm)
+n_cores - Number of cores of processor
 
-talk_time: Tek şarjda konuşma süresi
+wifi - Has wifi or not
 
-three_g: 3G var ya da yok
+blue - Has bluetooth or not
 
-touch-screen: Dokunmatik ekran var ya da yok
+mobile_wt - Weight of mobile phone
 
-wifi: WiFi var ya da yok
+talk_time - longest time that a single battery charge will last when you are
 
-price_range: Fiyat aralığı (0-1-2-3)
+price_range - This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
